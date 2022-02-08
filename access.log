@@ -1,0 +1,10 @@
+::ffff:127.0.0.1 - - [20/Dec/2021:11:19:11 +0530] "GET / HTTP/1.1" 301 246 "" "curl/7.54.0" ":" "ironpack-test.vmprovider.hackerrank.link" "" 0.016 0.015
+::ffff:127.0.0.1 - - [20/Dec/2021:18:22:22 +0530] "GET / HTTP/1.1" 301 246 "" "curl/7.54.0" ":" "ironpack-test.vmprovider.hackerrank.link" "" 0.021 0.019
+::ffff:127.0.0.1 - - [21/Dec/2021:16:48:37 +0530] "GET / HTTP/1.1" 301 246 "" "curl/7.54.0" ":" "ironpack-test.vmprovider.hackerrank.link" "" 0.463 0.461
+::1 - - [05/Jan/2022:12:28:39 +0530] "GET / HTTP/1.1" 400 13 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" ":" "" "" 0.006 0.000
+::1 - - [05/Jan/2022:12:28:39 +0530] "GET /favicon.ico HTTP/1.1" 400 13 "http://localhost:8989/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" ":" "" "" 0.000 0.000
+::1 - - [05/Jan/2022:12:29:21 +0530] "GET / HTTP/1.1" 400 13 "" "Go-http-client/1.1" ":" "" "" 0.000 0.000
+::1 - - [05/Jan/2022:12:29:36 +0530] "GET /health HTTP/1.1" 400 13 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" ":" "" "" 0.000 0.000
+::1 - - [05/Jan/2022:12:29:36 +0530] "GET /favicon.ico HTTP/1.1" 400 13 "http://localhost:8989/health" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" ":" "" "" 0.006 0.000
+::1 - - [05/Jan/2022:12:37:55 +0530] "GET / HTTP/1.1" 400 13 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" ":" "" "" 0.002 0.000
+::1 - - [05/Jan/2022:12:37:55 +0530] "GET /favicon.ico HTTP/1.1" 400 13 "http://localhost:8989/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" ":" "" "" 0.000 0.000
